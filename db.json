@@ -1,0 +1,826 @@
+{
+  "onBenchEmployee": [],
+  "jobRequirement": [],
+  "skills": [
+    {
+      "title": "Delivery Manager",
+      "skills": [
+        "Project Management",
+        "Agile Methodology",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Scrum",
+        "Kanban",
+        "Risk Management",
+        "Jira",
+        "Confluence",
+        "Communication"
+      ]
+    },
+    {
+      "title": "TIBCO Associate Developer",
+      "skills": [
+        "TIBCO",
+        "Java",
+        "Web Services",
+        "SOAP",
+        "REST",
+        "XML",
+        "Integration",
+        "SQL",
+        "BusinessWorks",
+        "EMS",
+        "API Development",
+        "Business Requirements"
+      ]
+    },
+    {
+      "title": "Fullstack- SE- Proactive",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Angular",
+        "HTML",
+        "CSS",
+        "MongoDB",
+        "Express.js",
+        "Redux",
+        "Jest",
+        "Docker",
+        "Kubernetes",
+        "React.js"
+      ]
+    },
+    {
+      "title": "Mulesoft Developer",
+      "skills": [
+        "MuleSoft",
+        "Java",
+        "API Development",
+        "Integration",
+        "Anypoint Platform",
+        "SOAP",
+        "REST",
+        "CloudHub",
+        "RAML",
+        "DataWeave",
+        "Hands on Work (Inactive)"
+      ]
+    },
+    {
+      "title": "Senior Developer",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "API Development",
+        "Databases",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Hibernate",
+        "REST",
+        "Job Control Language (JCL)"
+      ]
+    },
+    {
+      "title": "Connex Developer",
+      "skills": [
+        "Connex",
+        "Switch Development",
+        "Payments",
+        "Java",
+        "C++",
+        "Integration",
+        "ISO 8583",
+        "Linux",
+        "Oracle",
+        "Design"
+      ]
+    },
+    {
+      "title": "Java Developer Access Management / IdP Engineer",
+      "skills": [
+        "Java",
+        "Identity Provider (IdP)",
+        "OAuth",
+        "SAML",
+        "Authentication",
+        "Access Management",
+        "Spring Security",
+        "LDAP",
+        "Active Directory",
+        "OAuth"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "skills": [
+        "SQL",
+        "Python",
+        "ETL",
+        "Data Warehousing",
+        "Big Data",
+        "Spark",
+        "Hadoop",
+        "Airflow",
+        "Kafka",
+        "AWS Glue",
+        "Big Data"
+      ]
+    },
+    {
+      "title": "Associate Director Proactive",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Stakeholder Management",
+        "Business Development",
+        "Team Management",
+        "Agile",
+        "Financial Planning",
+        "Business Analyst"
+      ]
+    },
+    {
+      "title": "Python Devops Engineer",
+      "skills": [
+        "Python",
+        "CI/CD",
+        "Jenkins",
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Terraform",
+        "Ansible",
+        "Automation",
+        "Linux",
+        "Python (Programming Language)"
+      ]
+    },
+    {
+      "title": "Fullstack Developer (Java + Angular)",
+      "skills": [
+        "Java",
+        "Spring",
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Maven",
+        "Gradle",
+        "REST APIs",
+        "Bootstrap",
+        "Angular"
+      ]
+    },
+    {
+      "title": "VisionPlus Developer",
+      "skills": [
+        "VisionPlus",
+        "Mainframe",
+        "COBOL",
+        "Credit Card Processing",
+        "CICS",
+        "JCL",
+        "VSAM",
+        "Communication"
+      ]
+    },
+    {
+      "title": "Lead Technology",
+      "skills": [
+        "Team Leadership",
+        "Technology Strategy",
+        "Solution Design",
+        "Stakeholder Management",
+        "Agile",
+        "Scrum",
+        "Cloud Technologies",
+        "Murex Datamart Reporting"
+      ]
+    },
+    {
+      "title": "Lead QC- Automation",
+      "skills": [
+        "Test Automation",
+        "Selenium",
+        "Java",
+        "CI/CD",
+        "TestNG",
+        "Agile",
+        "Cucumber",
+        "Jenkins",
+        "Postman",
+        "API Testing",
+        "Automation Technology"
+      ]
+    },
+    {
+      "title": "Associate Specialist Python",
+      "skills": [
+        "Python",
+        "Flask",
+        "Django",
+        "Automation",
+        "SQL",
+        "API Development",
+        "REST",
+        "Linux",
+        "Python (Programming Language)"
+      ]
+    },
+    {
+      "title": "Sr Associate - MSBI",
+      "skills": [
+        "Microsoft BI",
+        "SSIS",
+        "SSRS",
+        "SQL",
+        "Power BI",
+        "ETL",
+        "Data Warehousing",
+        "DAX",
+        "Power Query",
+        "Business Intelligence (BI)"
+      ]
+    },
+    {
+      "title": "Java Developer",
+      "skills": [
+        "Java",
+        "Spring",
+        "Hibernate",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Maven",
+        "Jenkins",
+        "Docker",
+        "Java"
+      ]
+    },
+    {
+      "title": "Way4 BA_NI",
+      "skills": [
+        "Way4",
+        "Business Analysis",
+        "Payment Systems",
+        "Requirements Gathering",
+        "SWIFT",
+        "ISO 20022",
+        "SQL",
+        "UML",
+        "Business Analyst"
+      ]
+    },
+    {
+      "title": "Oracle Apps EBS Technical Consultant",
+      "skills": [
+        "Oracle EBS",
+        "PL/SQL",
+        "Forms",
+        "Reports",
+        "Workflows",
+        "Oracle Workflow",
+        "SQL",
+        "RICEW",
+        "OAF",
+        "Oracle"
+      ]
+    },
+    {
+      "title": "QA Engineer",
+      "skills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Selenium",
+        "TestNG",
+        "SQL",
+        "API Testing",
+        "Postman",
+        "Jira",
+        "Agile",
+        "Java"
+      ]
+    },
+    {
+      "title": "Salesforce Developer",
+      "skills": [
+        "Salesforce",
+        "Apex",
+        "Visualforce",
+        "Lightning",
+        "SOQL",
+        "API Integration",
+        "Salesforce DX",
+        "REST",
+        "LWC",
+        "Salesforce (Software)"
+      ]
+    },
+    {
+      "title": "Lead - Big Data Engineer + GCP",
+      "skills": [
+        "Big Data",
+        "Google Cloud Platform",
+        "Spark",
+        "Hadoop",
+        "Python",
+        "ETL",
+        "Dataflow",
+        "BigQuery",
+        "Kafka",
+        "Data Engineering"
+      ]
+    },
+    {
+      "title": "Sr. Associate QA RestAssured",
+      "skills": [
+        "QA Automation",
+        "RestAssured",
+        "Java",
+        "API Testing",
+        "Selenium",
+        "JUnit",
+        "TestNG",
+        "Postman",
+        "RestAssured"
+      ]
+    },
+    {
+      "title": "PowerApp",
+      "skills": [
+        "PowerApps",
+        "Microsoft Power Platform",
+        "Canvas Apps",
+        "Flow",
+        "Dataverse",
+        "Power BI",
+        "API Integration",
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "title": "Snr .Murex MLC Analyst XVA PFE",
+      "skills": [
+        "Murex",
+        "MLC",
+        "XVA",
+        "Risk Management",
+        "PFE",
+        "SQL",
+        "MXML",
+        "Trade Processing",
+        "Market Risk"
+      ]
+    },
+    {
+      "title": "Mobile Apps Automation Tester",
+      "skills": [
+        "Mobile App Testing",
+        "Appium",
+        "Selenium",
+        "iOS",
+        "Android",
+        "Automation",
+        "TestNG",
+        "XCUITest",
+        "Espresso",
+        "Java"
+      ]
+    },
+    {
+      "title": "Cloud Architect- AWS",
+      "skills": [
+        "AWS",
+        "Cloud Architecture",
+        "DevOps",
+        "Networking",
+        "Security",
+        "Automation",
+        "Terraform",
+        "CloudFormation",
+        "Kubernetes",
+        "AWS Cloud Computing"
+      ]
+    },
+    {
+      "title": "AWS Textract and Comprehend",
+      "skills": [
+        "AWS Textract",
+        "AWS Comprehend",
+        "OCR",
+        "Natural Language Processing",
+        "AWS Lambda",
+        "S3",
+        "Python",
+        "AWS Devops"
+      ]
+    },
+    {
+      "title": "C++ Developer",
+      "skills": [
+        "C++",
+        "Object-Oriented Programming",
+        "Multithreading",
+        "STL",
+        "Linux",
+        "Boost",
+        "QT",
+        "Oracle"
+      ]
+    },
+    {
+      "title": "MS Dynamics",
+      "skills": [
+        "Microsoft Dynamics",
+        "CRM",
+        "ERP",
+        "Customization",
+        "Integration",
+        "PowerApps",
+        "Azure",
+        "Microsoft Dynamics 365 Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer - System Reliability & Security",
+      "skills": [
+        "SRE",
+        "System Reliability",
+        "Security",
+        "DevOps",
+        "Monitoring",
+        "Kubernetes",
+        "Docker",
+        "Prometheus",
+        "Grafana",
+        "Splunk (Inactive)"
+      ]
+    },
+    {
+      "title": "Qliksense + Data Modelling",
+      "skills": [
+        "QlikSense",
+        "Data Modeling",
+        "Data Visualization",
+        "BI Tools",
+        "ETL",
+        "SQL",
+        "QlikView",
+        "Data Modeling"
+      ]
+    },
+    {
+      "title": ".Net/Angular / SQL Developer",
+      "skills": [
+        ".NET",
+        "Angular",
+        "SQL",
+        "C#",
+        "Entity Framework",
+        "ASP.NET",
+        "JavaScript",
+        "Angular"
+      ]
+    },
+    {
+      "title": "Vision Plus Developer",
+      "skills": [
+        "VisionPlus",
+        "Mainframe",
+        "COBOL",
+        "Credit Card Processing",
+        "CICS",
+        "JCL",
+        "VSAM",
+        "Communication"
+      ]
+    },
+    {
+      "title": "Angular",
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "RxJS",
+        "NgRx",
+        "Web Development"
+      ]
+    },
+    {
+      "title": "GCP Data Engineer",
+      "skills": [
+        "Google Cloud Platform",
+        "Big Data",
+        "ETL",
+        "Data Warehousing",
+        "SQL",
+        "Python",
+        "BigQuery",
+        "Dataflow",
+        "Cloud Pub/Sub",
+        "Angular"
+      ]
+    },
+    {
+      "title": "Senior Java Developer",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "API Development",
+        "Databases",
+        "Docker",
+        "Kubernetes",
+        "Hibernate",
+        "Kafka",
+        "Agile Methodology"
+      ]
+    },
+    {
+      "title": "SFG Engineer",
+      "skills": [
+        "Sterling File Gateway",
+        "SFTP",
+        "File Transfer",
+        "B2B Integration",
+        "IBM Sterling Integrator",
+        "EDI",
+        "Java",
+        "IBM Sterling File Gateway"
+      ]
+    },
+    {
+      "title": "Java Lead",
+      "skills": [
+        "Java",
+        "Spring",
+        "Team Leadership",
+        "Microservices",
+        "API Development",
+        "Hibernate",
+        "Kafka",
+        "Cloud",
+        "Java"
+      ]
+    },
+    {
+      "title": "Scrum Master",
+      "skills": [
+        "Agile Methodology",
+        "Scrum",
+        "Team Leadership",
+        "Project Management",
+        "Jira",
+        "Kanban",
+        "Scrum Master"
+      ]
+    },
+    {
+      "title": "L2 Support Engineer",
+      "skills": [
+        "Technical Support",
+        "Troubleshooting",
+        "Linux",
+        "Networking",
+        "Customer Support",
+        "SQL",
+        "Information Technology Infrastructure Library (ITIL)"
+      ]
+    },
+    {
+      "title": "Mobile Automation",
+      "skills": [
+        "Appium",
+        "Mobile Testing",
+        "iOS",
+        "Android",
+        "Automation Testing",
+        "XCUITest",
+        "Espresso",
+        "QC Control (Inactive)"
+      ]
+    },
+    {
+      "title": "Data Architect",
+      "skills": [
+        "Data Architecture",
+        "SQL",
+        "Data Modeling",
+        "Cloud",
+        "Big Data",
+        "NoSQL",
+        "Data Lakes",
+        "Data Architecture"
+      ]
+    },
+    {
+      "title": "Python/PySpark Developer",
+      "skills": [
+        "Python",
+        "PySpark",
+        "Big Data",
+        "ETL",
+        "SQL",
+        "Hadoop",
+        "Spark",
+        "AWS Glue",
+        "Agile Methodology"
+      ]
+    },
+    {
+      "title": "IBM Process Designer Tool",
+      "skills": [
+        "IBM BPM",
+        "Process Design",
+        "Workflow Management",
+        "Integration",
+        "Java",
+        "Web Services",
+        "Technical Solutions"
+      ]
+    },
+    {
+      "title": "EFT Engineers",
+      "skills": [
+        "Electronic Funds Transfer",
+        "Payments",
+        "Switch Development",
+        "Java",
+        "C++",
+        "ISO 8583",
+        "EFT",
+        "Emotional Freedom Techniques (EFT)"
+      ]
+    },
+    {
+      "title": "SAP Successfactor",
+      "skills": [
+        "SAP SuccessFactors",
+        "HCM",
+        "Employee Central",
+        "Integration",
+        "Workflows",
+        "Data Migration",
+        "SAP Cloud Platform",
+        "SAP SuccessFactors"
+      ]
+    },
+    {
+      "title": "SSIS, SQL",
+      "skills": [
+        "SQL Server Integration Services (SSIS)",
+        "SQL",
+        "ETL",
+        "Data Warehousing",
+        "T-SQL",
+        "SSRS",
+        "Microsoft BI",
+        "Structured Query Language (SQL)"
+      ]
+    },
+    {
+      "title": "BA - AllVue(Black Mountain)",
+      "skills": [
+        "Business Analysis",
+        "AllVue",
+        "Private Equity",
+        "Investment Accounting",
+        "Requirements Gathering",
+        "Financial Technology",
+        "Business"
+      ]
+    },
+    {
+      "title": "Associate Specialist Technology- Java",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "API Development",
+        "Microservices",
+        "SQL",
+        "Maven",
+        "Angular",
+        "Java"
+      ]
+    },
+    {
+      "title": "Lead Android Developer",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "Mobile Development",
+        "API Integration",
+        "MVVM",
+        "Gradle",
+        "Android"
+      ]
+    },
+    {
+      "title": "M&A Execution Manager",
+      "skills": [
+        "Mergers and Acquisitions",
+        "Financial Analysis",
+        "Due Diligence",
+        "Valuation",
+        "Corporate Strategy",
+        "Investment Banking",
+        "Mergers and Acquisitions (M&A)"
+      ]
+    },
+    {
+      "title": "Python + Databricks Lead ( Credit Risk)",
+      "skills": [
+        "Python",
+        "Databricks",
+        "Credit Risk",
+        "ETL",
+        "Spark",
+        "SQL",
+        "Data Science",
+        "Risk Management",
+        "Spark"
+      ]
+    },
+    {
+      "title": "Lead ML Engineer, ML Engineer",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Data Science",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "Scikit-Learn",
+        "People Management"
+      ]
+    },
+    {
+      "title": "Senior - IT operations",
+      "skills": [
+        "IT Operations",
+        "Infrastructure Management",
+        "Networking",
+        "Security",
+        "Cloud Computing",
+        "Incident Management",
+        "PL/SQL (Programming Language)"
+      ]
+    },
+    {
+      "title": "PL SQL Developer",
+      "skills": [
+        "PL/SQL",
+        "Oracle",
+        "Database Development",
+        "SQL",
+        "Stored Procedures",
+        "Performance Tuning",
+        "Oracle",
+        "PL/SQL (Programming Language)"
+      ]
+    },
+    {
+      "title": "Data Science, NLP",
+      "skills": [
+        "Python",
+        "Data Science",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Text Mining",
+        "TensorFlow",
+        "Learning New Technologies"
+      ]
+    },
+    {
+      "title": "Sr Associate - Data Scientist",
+      "skills": [
+        "Data Science",
+        "Python",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Scikit-Learn",
+        "Artificial Intelligence Ethics"
+      ]
+    },
+    {
+      "title": "Lead - Finance",
+      "skills": [
+        "Financial Analysis",
+        "Team Leadership",
+        "Financial Modeling",
+        "Budgeting",
+        "Corporate Finance",
+        "Communication"
+      ]
+    }
+  ]
+}
