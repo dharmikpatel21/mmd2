@@ -34,10 +34,14 @@ const MainContainer = (props: Props) => {
 
   return (
     <div className="flex flex-col items-center gap-6 p-10">
-      <ExcelUpload
-        setParsedJobRequirement={setParsedJobRequirement}
-        setParsedOnBenchEmployee={setParsedOnBenchEmployee}
-      />
+      {!(
+        parsedJobRequirement.length > 0 && parsedOnBenchEmployee.length > 0
+      ) && (
+        <ExcelUpload
+          setParsedJobRequirement={setParsedJobRequirement}
+          setParsedOnBenchEmployee={setParsedOnBenchEmployee}
+        />
+      )}
       {parsedJobRequirement.length > 0 && (
         <SelectJob
           parsedOnBenchEmployee={parsedOnBenchEmployee}
